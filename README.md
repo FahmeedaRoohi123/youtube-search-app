@@ -1,4 +1,4 @@
-# You tube search API
+# You tube search APP
 [YouTube Tutorial](https://youtu.be/feQhHStBVLE)
 
 Remember to add your own YouTube API Key to `utilities/keys.dart`.
